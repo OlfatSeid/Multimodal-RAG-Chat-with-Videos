@@ -1,6 +1,7 @@
 # Multimodal RAG: Chat with Videos
 
 
+![Uploading image.png…]()
 
 
 ## Overview

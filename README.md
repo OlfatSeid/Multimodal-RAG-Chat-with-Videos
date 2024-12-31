@@ -164,7 +164,31 @@ This function processes the query by:
 2. Creating a vector store for similarity search.
 3. Extracting relevant context.
 4. Generating a response using LangChain.
+This function processes the query by:
 
+1. Fetching the transcript.
+2. Creating a vector store for similarity search.
+3. Extracting relevant context.
+4. Generating a response using LangChain.
+This function processes the query by:
 
+1. Fetching the transcript.
+2. Creating a vector store for similarity search.
+3. Extracting relevant context.
+4. Generating a response using LangChain.
+
+This function processes the query by:
+
+1. Fetching the transcript.
+2. Creating a vector store for similarity search.
+3. Extracting relevant context.
+4. Generating a response using LangChain.
+
+This function processes the query by:
+
+1. Fetching the transcript.
+2. Creating a vector store for similarity search.
+3. Extracting relevant context.
+4. Generating a response using LangChain.
 
 

@@ -172,7 +172,7 @@ This creates a Gradio-based UI for user interaction with the application.
 ####################################################################3
 ###########################################################333
 
-This function processes the query by:
+
 
 
 

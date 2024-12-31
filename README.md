@@ -155,7 +155,15 @@ if __name__ == "__main__":
 This creates a Gradio-based UI for user interaction with the application.
 
 
+####################################################################3
+###########################################################333
 
+This function processes the query by:
+
+1. Fetching the transcript.
+2. Creating a vector store for similarity search.
+3. Extracting relevant context.
+4. Generating a response using LangChain.
 
 
 

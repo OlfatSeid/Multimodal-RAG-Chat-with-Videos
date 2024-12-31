@@ -1,7 +1,7 @@
 # Multimodal RAG: Chat with Videos
 
 
-![Uploading image.png…]()
+https://s172-29-42-23p8888.lab-aws-production.deeplearning.ai/files/L3/shared_data/MM-RAG.png
 
 
 ## Overview

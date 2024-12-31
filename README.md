@@ -161,5 +161,5 @@ This creates a Gradio-based UI for user interaction with the application.
 
 
 
-Feel free to modify the code and README 
+Feel free to  
 

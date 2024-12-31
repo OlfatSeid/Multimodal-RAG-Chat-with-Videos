@@ -1,6 +1,5 @@
 # Multimodal RAG: Chat with Videos
 
-# README
 
 ## Overview
 

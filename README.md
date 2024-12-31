@@ -174,8 +174,7 @@ This creates a Gradio-based UI for user interaction with the application.
 
 This function processes the query by:
 
-1. Fetching the transcript.
-2. Creating a vector store for similarity search.
+
 
 
 

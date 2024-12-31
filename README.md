@@ -4,7 +4,17 @@
 ![image](https://github.com/user-attachments/assets/6f315772-98f9-4454-90f0-ce6161162ae9)
 
 
+System Architecture
+The following diagram illustrates the architecture of the application:
 
+
+Key Components in the Diagram:
+Enterprise Data: Represents the source data (e.g., images, videos) ingested and processed for embedding generation.
+Embedding Model: Uses BridgeTower/bridge-tower-large for generating embeddings from user queries and data.
+Index/Vector Database: Stores the processed embeddings in LanceDB for efficient retrieval and ranking.
+Prompt Processing and LVLM Inference: Combines the user query and retrieved data context for inference using LLaVA (Large Visual Language Model Assistant).
+Post-process/Response: Finalizes and presents the response to the user.
+This architecture demonstrates how user queries are processed efficiently using retrieval-augmented generation (RAG) techniques.
 ## Overview
 
 This project provides a web application interface for interacting with YouTube videos by querying their transcripts. Users can input a YouTube video URL and a question related to the video content. The application fetches the video transcript, processes it to create a vector store for similarity search, and generates responses using a language model.

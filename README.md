@@ -1,1 +1,1 @@
-# Multimodal-RAG-Chat-with-Videos
+# Multimodal RAG: Chat with Videos

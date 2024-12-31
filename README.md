@@ -167,8 +167,7 @@ This function processes the query by:
 This function processes the query by:
 
 1. Fetching the transcript.
-2. Creating a vector store for similarity search.
-3. Extracting relevant context.
+
 
 
 

@@ -4,11 +4,11 @@
 ![image](https://github.com/user-attachments/assets/6f315772-98f9-4454-90f0-ce6161162ae9)
 
 
-System Architecture
-The following diagram illustrates the architecture of the application:
+
 
 
 Key Components in the Diagram:
+
 Enterprise Data: Represents the source data (e.g., images, videos) ingested and processed for embedding generation.
 Embedding Model: Uses BridgeTower/bridge-tower-large for generating embeddings from user queries and data.
 Index/Vector Database: Stores the processed embeddings in LanceDB for efficient retrieval and ranking.

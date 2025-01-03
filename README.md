@@ -1,7 +1,7 @@
 # Multimodal RAG: Chat with Videos
 
 
-![image](https://github.com/user-attachments/assets/6f315772-98f9-4454-90f0-ce6161162ae9)
+
 
 
 
